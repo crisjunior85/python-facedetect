@@ -1,1 +1,1 @@
-# python-facedetect
+simple face detector
